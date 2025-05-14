@@ -53,4 +53,5 @@ div.cursor {
   border-radius: 50%;
   transform: translate(-50%, -50%);
   animation: cursor 6s infinite alternate;
+  cursor: none;
 }
