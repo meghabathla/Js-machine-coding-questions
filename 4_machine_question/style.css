@@ -10,7 +10,7 @@ body {
 #emoji {
   font-size: 10rem;
   filter: grayscale(1);
-  transition-property: transfrom, filter;
+  transition-property: transform, filter;
   transition-duration: 200ms;
   cursor: pointer;
 }
