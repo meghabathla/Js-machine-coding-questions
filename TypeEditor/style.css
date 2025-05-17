@@ -42,6 +42,20 @@ button {
   border: none;
   margin: 10px;
 }
+/* button:hover {
+  background-color: rgb(137, 137, 137);
+  
+} */
+.button-clicked {
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: rgb(95, 95, 95);
+  color: #fff;
+  border: none;
+
+  margin: 10px;
+}
 
 p {
   width: 400px;
@@ -73,4 +87,8 @@ p {
 
 .italic {
   font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
 }
